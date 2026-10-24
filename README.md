@@ -200,8 +200,8 @@ I've worked as a network & infrastructure engineer since 2013, and I run my own 
 
 <div align="center">
 
-<img height="230" src="assets/stats.svg" alt="GitHub activity (private repos included)"/>
-<img height="230" src="assets/langs.svg" alt="Top languages by bytes (private repos included)"/>
+<img height="250" src="assets/stats.svg" alt="GitHub activity (private repos included)"/>
+<img height="250" src="assets/langs.svg" alt="Top languages by bytes (private repos included)"/>
 
 </div>
 

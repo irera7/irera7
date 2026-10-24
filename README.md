@@ -200,8 +200,8 @@ I've worked as a network & infrastructure engineer since 2013, and I run my own 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=irera7&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irera7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+<img height="230" src="assets/stats.svg" alt="GitHub activity (private repos included)"/>
+<img height="230" src="assets/langs.svg" alt="Top languages by bytes (private repos included)"/>
 
 </div>
 
